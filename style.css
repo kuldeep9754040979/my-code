@@ -1,0 +1,53 @@
+body{
+    font-family:sans-serif;
+}
+
+#header{
+
+  text-align: center;
+  height: 100px;
+  background-color: beige;
+margin: 0px;
+padding: 0px;
+}
+h1{
+    padding-top: 30px;;
+}
+.container{
+   padding-right: 10px;
+}
+
+.maindiv{
+
+    display: inline-block;
+    padding-left: 25px;
+    padding-right: 25px;
+    
+    width:420px ;
+    height: 150px ;
+    background-color: darkcyan;
+   margin: 4px 0 0 18px;
+}
+.chicken{
+
+text-align:center;
+
+height: 30px;
+width: 120px;
+background-color: darkorange;
+position:fixed;
+margin: 0px 0 0px 326px;
+
+
+
+}
+p{
+  margin: 4rem 0 0 0;
+}
+.chicken h2{
+
+position: fixed;
+    margin:0 0 2rem 1.5rem;
+}
+
+
